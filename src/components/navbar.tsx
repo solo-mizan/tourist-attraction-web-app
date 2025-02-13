@@ -13,7 +13,7 @@ export const Navbar = () => {
                 <Link href="/faq">FAQ</Link>
             </div> <Separator orientation="vertical" />
             <div className="hover:text-blue-500 font-semibold">
-                <Link href="/">Login</Link>
+                <Link href="/register">Signup</Link>
             </div> <Separator orientation="vertical" />
             <div className="hover:text-blue-500 font-semibold">
                 <Link href="/about-us">About Us</Link>
