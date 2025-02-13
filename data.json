@@ -1,0 +1,243 @@
+{
+    "place": "Eiffel Tower",
+    "location": "Paris, France",
+    "imageUrls": [
+        "https://example.com/eiffel1.jpg",
+        "https://example.com/eiffel2.jpg"
+    ],
+    "description": "The Eiffel Tower is an iconic landmark in Paris, offering breathtaking views of the city from its top floors.",
+    "avgHotelCost": 150,
+    "userRating": 4.9,
+    "geoLocation": {
+        "latitude": 48.8584,
+        "longitude": 2.2945
+    },
+    "userReviews": [
+        {
+            "userName": "John Doe",
+            "reviewText": "Amazing view, a must-visit in Paris!",
+            "rating": 5
+        },
+        {
+            "userName": "Jane Smith",
+            "reviewText": "Best time to visit is at night when it lights up!",
+            "rating": 4.8
+        }
+    ]
+},
+{
+    "place": "Great Wall of China",
+    "location": "Beijing, China",
+    "imageUrls": [
+        "https://example.com/greatwall1.jpg",
+        "https://example.com/greatwall2.jpg"
+    ],
+    "description": "One of the greatest architectural feats in history, the Great Wall stretches across China and offers stunning views.",
+    "avgHotelCost": 100,
+    "userRating": 4.8,
+    "geoLocation": {
+        "latitude": 40.4319,
+        "longitude": 116.5704
+    },
+    "userReviews": [
+        {
+            "userName": "Alice Brown",
+            "reviewText": "A historical wonder! Wear comfortable shoes.",
+            "rating": 5
+        },
+        {
+            "userName": "Bob Johnson",
+            "reviewText": "Can get crowded, but totally worth the experience.",
+            "rating": 4.7
+        }
+    ]
+},
+{
+    "place": "Machu Picchu",
+    "location": "Cusco, Peru",
+    "imageUrls": [
+        "https://example.com/machu1.jpg",
+        "https://example.com/machu2.jpg"
+    ],
+    "description": "Machu Picchu is a breathtaking ancient Incan city located high in the Andes Mountains.",
+    "avgHotelCost": 120,
+    "userRating": 4.9,
+    "geoLocation": {
+        "latitude": -13.1631,
+        "longitude": -72.545
+    },
+    "userReviews": [
+        {
+            "userName": "Sophia Martinez",
+            "reviewText": "Absolutely magical, a must-visit in Peru!",
+            "rating": 5
+        },
+        {
+            "userName": "Liam Johnson",
+            "reviewText": "Book tickets in advance! The views are surreal.",
+            "rating": 4.8
+        }
+    ]
+},
+{
+    "place": "Grand Canyon",
+    "location": "Arizona, USA",
+    "imageUrls": [
+        "https://example.com/grandcanyon1.jpg",
+        "https://example.com/grandcanyon2.jpg"
+    ],
+    "description": "One of the seven natural wonders of the world, the Grand Canyon offers stunning landscapes and adventure activities.",
+    "avgHotelCost": 130,
+    "userRating": 4.9,
+    "geoLocation": {
+        "latitude": 36.1069,
+        "longitude": -112.1129
+    },
+    "userReviews": [
+        {
+            "userName": "Chris Wilson",
+            "reviewText": "Breathtaking views! Sunset is the best time to visit.",
+            "rating": 5
+        },
+        {
+            "userName": "Emma Davis",
+            "reviewText": "A must-see for nature lovers!",
+            "rating": 4.9
+        }
+    ]
+},
+{
+    "place": "Santorini",
+    "location": "Greece",
+    "imageUrls": [
+        "https://example.com/santorini1.jpg",
+        "https://example.com/santorini2.jpg"
+    ],
+    "description": "Santorini is a stunning Greek island known for its white-washed buildings, blue domes, and beautiful sunsets.",
+    "avgHotelCost": 180,
+    "userRating": 4.8,
+    "geoLocation": {
+        "latitude": 36.3932,
+        "longitude": 25.4615
+    },
+    "userReviews": [
+        {
+            "userName": "Emily White",
+            "reviewText": "The most romantic place I’ve ever visited!",
+            "rating": 5
+        },
+        {
+            "userName": "James Brown",
+            "reviewText": "Sunset in Oia is unforgettable!",
+            "rating": 4.8
+        }
+    ]
+},
+{
+    "place": "Taj Mahal",
+    "location": "Agra, India",
+    "imageUrls": [
+        "https://example.com/tajmahal1.jpg",
+        "https://example.com/tajmahal2.jpg"
+    ],
+    "description": "The Taj Mahal is a stunning white marble mausoleum, a symbol of love and a UNESCO World Heritage Site.",
+    "avgHotelCost": 90,
+    "userRating": 4.9,
+    "geoLocation": {
+        "latitude": 27.1751,
+        "longitude": 78.0421
+    },
+    "userReviews": [
+        {
+            "userName": "Amit Verma",
+            "reviewText": "A truly magnificent wonder of the world!",
+            "rating": 5
+        },
+        {
+            "userName": "Linda Carter",
+            "reviewText": "Go early in the morning to avoid crowds.",
+            "rating": 4.7
+        }
+    ]
+},
+{
+    "place": "Colosseum",
+    "location": "Rome, Italy",
+    "imageUrls": [
+        "https://example.com/colosseum1.jpg",
+        "https://example.com/colosseum2.jpg"
+    ],
+    "description": "An ancient Roman amphitheater that once hosted gladiator fights, now one of the most famous landmarks in the world.",
+    "avgHotelCost": 140,
+    "userRating": 4.8,
+    "geoLocation": {
+        "latitude": 41.8902,
+        "longitude": 12.4922
+    },
+    "userReviews": [
+        {
+            "userName": "Marco Rossi",
+            "reviewText": "Incredible history! Get a guide to learn more.",
+            "rating": 5
+        },
+        {
+            "userName": "Sarah Lee",
+            "reviewText": "Crowded, but an unforgettable experience.",
+            "rating": 4.6
+        }
+    ]
+},
+{
+    "place": "Sydney Opera House",
+    "location": "Sydney, Australia",
+    "imageUrls": [
+        "https://example.com/sydney1.jpg",
+        "https://example.com/sydney2.jpg"
+    ],
+    "description": "A world-famous performing arts venue with an iconic sail-like design, offering breathtaking harbor views.",
+    "avgHotelCost": 160,
+    "userRating": 4.7,
+    "geoLocation": {
+        "latitude": -33.8568,
+        "longitude": 151.2153
+    },
+    "userReviews": [
+        {
+            "userName": "David Williams",
+            "reviewText": "Great architecture and an amazing location!",
+            "rating": 5
+        },
+        {
+            "userName": "Olivia Brown",
+            "reviewText": "Take a harbor cruise for the best views.",
+            "rating": 4.7
+        }
+    ]
+},
+{
+    "place": "Burj Khalifa",
+    "location": "Dubai, UAE",
+    "imageUrls": [
+        "https://example.com/burjkhalifa1.jpg",
+        "https://example.com/burjkhalifa2.jpg"
+    ],
+    "description": "The world's tallest building, offering breathtaking panoramic views of Dubai from its observation decks.",
+    "avgHotelCost": 200,
+    "userRating": 4.9,
+    "geoLocation": {
+        "latitude": 25.1972,
+        "longitude": 55.2744
+    },
+    "userReviews": [
+        {
+            "userName": "Ahmed Khan",
+            "reviewText": "The view from the top is absolutely stunning!",
+            "rating": 5
+        },
+        {
+            "userName": "Emma Wilson",
+            "reviewText": "Best to visit in the evening for city lights.",
+            "rating": 4.9
+        }
+    ]
+}

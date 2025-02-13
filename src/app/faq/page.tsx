@@ -9,6 +9,8 @@ import backgroundPic from "../../../public/question_marks_background(1).jpg"
 function FAQAccordion() {
     return (
         <div className="relative h-screen w-full bg-cover bg-center bg-no-repeat" style={{ backgroundImage: "url('/question_marks_background(1).jpg')" }}>
+
+            <h1 className="text-3xl text-pink-700 text-center pt-8 font-semibold">Frequently Asked Questions by our visiotor</h1>
             <div className="absolute inset-0 bg-black opacity-50"></div>
 
 
