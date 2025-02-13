@@ -4,7 +4,6 @@ import {
     AccordionItem,
     AccordionTrigger,
 } from "@/components/ui/accordion"
-import backgroundPic from "../../../public/question_marks_background(1).jpg"
 
 function FAQAccordion() {
     return (

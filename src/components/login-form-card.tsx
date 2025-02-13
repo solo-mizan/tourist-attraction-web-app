@@ -1,5 +1,5 @@
 import Link from "next/link"
-import { AppleIcon, Github } from "lucide-react"
+import { AppleIcon } from "lucide-react"
 
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
@@ -37,8 +37,8 @@ export function LoginFormCard() {
                     Log in with Apple
                 </Button>
                 <p className="text-sm text-center text-gray-600">
-                    Don't have an account?{" "}
-                    <Link href="/signup" className="text-primary hover:underline">
+                    Don&apos;t have an account?{" "}
+                    <Link href="/register" className="text-primary hover:underline">
                         Sign up
                     </Link>
                 </p>

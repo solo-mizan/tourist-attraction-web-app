@@ -16,6 +16,7 @@ import helsinki from "../../public/helsinki-1.jpg"
 import kashmir from "../../public/kashmir-1.jpg"
 import saudi from "../../public/saudia-arabia-1.jpg"
 import statue from "../../public/statue-of-liberty-1.jpg"
+import Image from "next/image"
 
 const picArray = [burj, helsinki, kashmir, saudi, statue];
 
